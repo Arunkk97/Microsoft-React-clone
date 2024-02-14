@@ -10,12 +10,12 @@ function Body() {
             <div className="col-lg-5">
 
               <div className='d-flex justify-content-center align-items-center mt-5'><h3 className='fw-bolder'>Get more from Copilot</h3></div>
-              <div className='d-flex justify-content-center align-items-center ms-5'><h5>See how your everyday AI companion can help <br /> enhance life and work.</h5></div>
+              <div className='d-flex justify-content-center align-items-center '><h6>See how your everyday AI companion can help <br /> enhance life and work.</h6></div>
               <div className='d-flex justify-content-center align-items-center mb-5'><button style={{ border: 'none' }} className='bg bg-info fw-bolder text-white p-2 '>For Individuals</button></div>
 
             </div>
             <div className="col-lg-7  ">
-              <img style={{ height: '480px' }}
+              <img style={{ height: '510px' }}
                 className="d-block w-100"
                 src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-Copilot-001:VP2-859x540"
                 alt="First slide"
@@ -28,7 +28,7 @@ function Body() {
         <Carousel.Item>
           <div className='row  d-flex justify-content-center align-items-center'>
             <div className="col-lg-7">
-              <img style={{ height: '480px' }}
+              <img style={{ height: '510px' }}
                 className="d-block w-100"
                 src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Pro-9-M1-Family-02-1:VP2-859x540"
                 alt="second slide"
