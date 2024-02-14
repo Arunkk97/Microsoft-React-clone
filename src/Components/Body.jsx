@@ -82,7 +82,7 @@ function Body() {
       <div className='container'>
         <div className=' row d-flex justify-content-center align-items-center '>
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Laptop-5-M1-Platinum-01-1?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Surface-Laptop-5-M1-Platinum-01-1?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'>Surface Laptop 5</Card.Title>
               <Card.Text>
@@ -94,7 +94,7 @@ function Body() {
           </Card>
 
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Surface-Laptop-Studio-01-CP?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Surface-Laptop-Studio-01-CP?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'>Surface Laptop Studio</Card.Title>
               <Card.Text>
@@ -106,7 +106,7 @@ function Body() {
           </Card>
 
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-XSX-CP-Xbox-Series-X?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'>X box Series X</Card.Title>
               <Card.Text>
@@ -118,7 +118,7 @@ function Body() {
           </Card>
 
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-Lifestyle-Sandstone-Icon-Toss?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Microsoft-365-Lifestyle-Sandstone-Icon-Toss?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'> Microsoft 365</Card.Title>
               <Card.Text>
@@ -168,7 +168,7 @@ function Body() {
       <div className='container mb-5'>
         <div className=' row d-flex justify-content-center align-items-center '>
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Surf-CP-SurfaceFamilyForBusiness?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Surf-CP-SurfaceFamilyForBusiness?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'>Surface for Business</Card.Title>
               <Card.Text>
@@ -180,7 +180,7 @@ function Body() {
           </Card>
 
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Microsoft-Teams-Commercial?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-CP-Microsoft-Teams-Commercial?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'>Microsoft Teams</Card.Title>
               <Card.Text>
@@ -192,7 +192,7 @@ function Body() {
           </Card>
 
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Content-Card-Azure-AI-Bloom?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'>Join the era of AI</Card.Title>
               <Card.Text>
@@ -204,7 +204,7 @@ function Body() {
           </Card>
 
           <Card className='m-3' style={{ width: '18rem' }}>
-            <Card.Img variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=406&hei=230&fit=crop" />
+            <Card.Img className='mt-3' variant="top" src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/JIC-DPS-CP01?wid=406&hei=230&fit=crop" />
             <Card.Body>
               <Card.Title className='fw-bolder'> Microsoft 365 Cloud PC</Card.Title>
               <Card.Text>
