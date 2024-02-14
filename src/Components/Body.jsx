@@ -36,7 +36,7 @@ function Body() {
             </div>
             <div className="col-lg-5   bg-body-Secondary ">
               <div className='d-flex justify-content-start align-items-center'><h3 className='fw-bolder'>Surface Pro 9</h3></div>
-              <div className='d-flex justify-content-start align-items-center'><h5>Tablet versatility and laptop power — all in one <br />ultra-portable device</h5></div>
+              <div className='d-flex justify-content-start align-items-center'><h6>Tablet versatility and laptop power — all in one <br />ultra-portable device</h6></div>
               <button style={{ border: 'none' }} className='bg bg-info fw-bolder text-white p-2 '>Learn More</button>
             </div>
           </div>
