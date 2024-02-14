@@ -15,7 +15,7 @@ function Body() {
 
             </div>
             <div className="col-lg-7  ">
-              <img style={{ height: '620px' }}
+              <img style={{ height: '480px' }}
                 className="d-block w-100"
                 src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Slim-Multi-Canvas-Copilot-001:VP2-859x540"
                 alt="First slide"
@@ -28,7 +28,7 @@ function Body() {
         <Carousel.Item>
           <div className='row  d-flex justify-content-center align-items-center'>
             <div className="col-lg-7">
-              <img style={{ height: '620px' }}
+              <img style={{ height: '480px' }}
                 className="d-block w-100"
                 src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-Surface-Pro-9-M1-Family-02-1:VP2-859x540"
                 alt="second slide"
